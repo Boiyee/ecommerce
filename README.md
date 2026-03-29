@@ -142,3 +142,9 @@ To replace mock data with a real API:
 ## License
 
 MIT — free to use for personal and commercial projects.
+
+## Author
+
+- X: https://x.com/OduwaleJubreel
+- Whatsapp: wa.me/7052006201
+- LinkedIn: 
