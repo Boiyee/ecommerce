@@ -147,4 +147,5 @@ MIT — free to use for personal and commercial projects.
 
 - X: https://x.com/OduwaleJubreel
 - Whatsapp: wa.me/7052006201
-- LinkedIn: 
+- LinkedIn:
+- Discord: 
