@@ -1,6 +1,6 @@
-# NOVA Store — Ecommerce Frontend Template
+# NOVA Store — E-commerce Frontend Template
 
-A clean, modern multi-category ecommerce frontend built with **React**, **Vite**, and **Tailwind CSS**.
+A clean, modern multi-category e-commerce frontend built with **React**, **Vite**, and **Tailwind CSS**.
 
 ---
 
@@ -103,7 +103,7 @@ Output is in the `dist/` folder, ready to deploy to Vercel, Netlify, or any stat
 
 ---
 
-## Customisation Guide
+## Customization Guide
 
 | What to change | Where |
 |---|---|
